@@ -1,2 +1,2 @@
-# vagrant-ansible-lab
-Create Ansible lab using Vagrant
+# vagrant-ansible-labs
+Create local lab environemets using Vagrant and Ansible
